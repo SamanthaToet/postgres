@@ -1,0 +1,45 @@
+---
+title: "Intro to Databases & Postgres"
+author: "Samantha Toet"
+date: "10/16/2018"
+output: html_document
+---
+
+# GDI Intro to Databases - 4 part workshop
+
+## Part I: Intro & Data modeling
+
+### What are databases?
+
+System built to store, organize, and retrieve data. 
+
+Types: hierarchical, relational, non-relational, object-oriented, etc.
+
+SQL = structured query language
+
+A *database management system* manages data efficiently and allows for multiple users to access (version control)
+
+### What is data modeling?
+
+Conceptual models - high level domain models
+Logical models - logical entities and relationships 
+
+Entities (person, place, or thing) with attributes (data)
+
+Primary key - the attribute used to id a specific entity (must be unique!)
+
+Remember:
+
+Arrays are lists of variables
+
+Objects are key value pairs 
+
+**Why would you choose a certain type of database? EX. MongoDB vs. MySQL?**
+
+Ask yourself "what does something have to have at minimum to be this type of thing?"
+
+
+
+
+
+
